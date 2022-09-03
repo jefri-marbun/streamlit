@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import numpy as np
 
 arr = np.random.normal(1, 1, size=100)
